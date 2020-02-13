@@ -1,0 +1,6 @@
+C:\Users\Machado\source\repos\TareaVanguardia\Database\bin\Debug\Database.dacpac
+C:\Users\Machado\source\repos\TareaVanguardia\Database\bin\Debug\Database.dll
+C:\Users\Machado\source\repos\TareaVanguardia\Database\bin\Debug\Database.pdb
+C:\Users\Machado\source\repos\TareaVanguardia\Database\obj\Debug\Database.dll
+C:\Users\Machado\source\repos\TareaVanguardia\Database\obj\Debug\Database.pdb
+C:\Users\Machado\source\repos\TareaVanguardia\Database\obj\Debug\Database.sqlprojAssemblyReference.cache

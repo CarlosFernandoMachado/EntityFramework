@@ -1,0 +1,9 @@
+C:\Users\Machado\source\repos\TareaVanguardia\Database\bin\Release\Database.dacpac
+C:\Users\Machado\source\repos\TareaVanguardia\Database\bin\Release\Database.dll
+C:\Users\Machado\source\repos\TareaVanguardia\Database\bin\Release\Database.pdb
+C:\Users\Machado\source\repos\TareaVanguardia\Database\obj\Release\Model.xml
+C:\Users\Machado\source\repos\TareaVanguardia\Database\obj\Release\refactor.xml
+C:\Users\Machado\source\repos\TareaVanguardia\Database\obj\Release\postdeploy.sql
+C:\Users\Machado\source\repos\TareaVanguardia\Database\obj\Release\predeploy.sql
+C:\Users\Machado\source\repos\TareaVanguardia\Database\obj\Release\Database.dll
+C:\Users\Machado\source\repos\TareaVanguardia\Database\obj\Release\Database.pdb
